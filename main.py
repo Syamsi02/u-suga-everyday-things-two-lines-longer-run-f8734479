@@ -4,6 +4,8 @@ Writes the entry text to /output/entry.txt: two lines explaining rain
 to a 10-year-old. Line 1 is a single vivid sentence built on one analogy;
 line 2 says in one sentence what that analogy maps and what it leaves out.
 Pure Python standard library; deterministic output.
+Analogy mapping: towel = cloud, wringing = rain falling, damp roofs
+and roads = everything soaked below; it leaves out wind and the sun.
 """
 
 import os
